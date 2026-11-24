@@ -1,14 +1,13 @@
 # Validador de Schema Markup y Datos Estructurados | TAVARDT Espana
 
 [![Validador Schema](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/es/validador-schema-markup/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Espana-00C853.svg)](https://ag.tavardt.com/es/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Inspeccion tecnica de marcado Schema.org JSON-LD y Microdatos, deteccion de tipos semanticos, validacion de atributos y fragmentos enriquecidos.
 
-Desarrollado y mantenido por el equipo de ingenieria semantica y SEO tecnico de **[TAVARDT Espana](https://ag.tavardt.com/es/)**.
+Desarrollado y mantenido por el equipo de ingenieria semantica y SEO tecnico de **TAVARDT Espana**.
 
----
+***
 
 ## Capacidades de Validacion Semantica
 
@@ -17,7 +16,7 @@ Desarrollado y mantenido por el equipo de ingenieria semantica y SEO tecnico de 
 * **Control de Sintaxis y Propiedades Requeridas**: Deteccion de errores sintacticos, campos obligatorios omitidos e inconsistencias de datos.
 * **Indice de Calidad Semantica**: Puntuacion objetiva de 0 a 100 con guia técnica de optimizacion para fragmentos enriquecidos.
 
----
+***
 
 ## Instalacion y Uso
 
@@ -32,20 +31,20 @@ python schema_validator.py ejemplo.es
 Para emitir la evaluacion en formato JSON:
 
 ```bash
-python schema_validator.py ejemplo.es --json
+python schema_validator.py ejemplo.es -json
 ```
 
----
+***
 
 ## Plataforma Web de Diagnostico
 
 Para auditorias continuas y validacion directa de URLs en la nube:
 
-* **[Validador de Schema Markup Oficial](https://tools.tavardt.com/es/validador-schema-markup/)**
+* **Validador de Schema Markup Oficial**
 * **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
 
----
+***
 
 ## Consultoria en Arquitectura de Datos y Marcado
 
-Para planes de implementacion de datos semanticos bajo Estandares W3C y Directrices Tecnicas Europeas, consulte con los especialistas de **[TAVARDT Espana](https://ag.tavardt.com/es/contacto/)**.
+Para planes de implementacion de datos semanticos bajo Estandares W3C y Directrices Tecnicas Europeas, consulte con los especialistas de **TAVARDT Espana**.
