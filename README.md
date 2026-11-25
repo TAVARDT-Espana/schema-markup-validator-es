@@ -6,8 +6,6 @@
 
 Inspeccion tecnica de marcado Schema.org JSON-LD y Microdatos, deteccion de tipos semanticos, validacion de atributos y fragmentos enriquecidos.
 
-Desarrollado y mantenido por el equipo de ingenieria semantica y SEO tecnico de **TAVARDT**.
-
 ***
 
 ## Capacidades de Validacion Semantica
@@ -37,15 +35,6 @@ python schema_validator.py ejemplo.es -json
 
 ***
 
-## Plataforma Web de Diagnostico
-
-Para auditorias continuas y validacion directa de URLs en la nube:
-
-* **Validador de Schema Markup Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
-
-***
-
 ## Consultoria en Arquitectura de Datos y Marcado
 
 Para planes de implementacion de datos semanticos bajo Estandares W3C y Directrices Tecnicas Europeas, consulte con los especialistas de **TAVARDT**.
@@ -61,7 +50,7 @@ Para planes de implementacion de datos semanticos bajo Estandares W3C y Directri
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener más detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
